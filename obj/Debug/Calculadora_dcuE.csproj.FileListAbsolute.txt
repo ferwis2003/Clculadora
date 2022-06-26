@@ -1,0 +1,11 @@
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Calculadora_dcuE\Calculadora_dcuE\bin\Debug\Calculadora_dcuE.exe.config
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Calculadora_dcuE\Calculadora_dcuE\bin\Debug\Calculadora_dcuE.exe
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Calculadora_dcuE\Calculadora_dcuE\bin\Debug\Calculadora_dcuE.pdb
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Calculadora_dcuE\Calculadora_dcuE\obj\Debug\Calculadora_dcuE.csproj.AssemblyReference.cache
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Calculadora_dcuE\Calculadora_dcuE\obj\Debug\Calculadora_dcuE.csproj.SuggestedBindingRedirects.cache
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Calculadora_dcuE\Calculadora_dcuE\obj\Debug\Calculadora_dcuE.Properties.Resources.resources
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Calculadora_dcuE\Calculadora_dcuE\obj\Debug\Calculadora_dcuE.csproj.GenerateResource.cache
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Calculadora_dcuE\Calculadora_dcuE\obj\Debug\Calculadora_dcuE.csproj.CoreCompileInputs.cache
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Calculadora_dcuE\Calculadora_dcuE\obj\Debug\Calculadora_dcuE.exe
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Calculadora_dcuE\Calculadora_dcuE\obj\Debug\Calculadora_dcuE.pdb
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Calculadora_dcuE\Calculadora_dcuE\obj\Debug\Calculadora_dcuE.Form1.resources
